@@ -1,0 +1,205 @@
+﻿#EXTM3U
+#EXTINF:0,H1_HD 
+http://ott-cdn.ucom.am/hdtest/04.m3u8
+#EXTINF:0,H1 
+http://ott-cdn.ucom.am/s1/04.m3u8
+#EXTINF:0,H2 
+http://ott-cdn.ucom.am/s2/04.m3u8
+#EXTINF:0,Armenia TV 
+http://ott-cdn.ucom.am/s4/04.m3u8
+#EXTINF:0,ATV 
+http://ott-cdn.ucom.am/s8/04.m3u8
+#EXTINF:0,Shant
+http://hlstv.kem.211.ru/239.211.200.33/stream.m3u8
+#EXTINF:0,Kentron 
+http://ott-cdn.ucom.am/s5/04.m3u8
+#EXTINF:0,Ararat 
+http://ott-cdn.ucom.am/s6/04.m3u8
+#EXTINF:0,Tuntunik 
+http://ott-cdn.ucom.am/s46/04.m3u8
+#EXTINF:0,Yerkir Media 
+http://ott-cdn.ucom.am/s7/04.m3u8
+#EXTINF:0,AR 
+http://ott-cdn.ucom.am/s9/04.m3u8
+#EXTINF:0,21TV 
+http://ott-cdn.ucom.am/s10/04.m3u8
+#EXTINF:0,ArmNews 
+http://ott-cdn.ucom.am/s11/04.m3u8
+#EXTINF:0,Hay kino 
+http://ott-cdn.ucom.am/s22/04.m3u8
+#EXTINF:0,Киноман ATV 
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:0,U!Premium 
+http://ott-cdn.ucom.am/s83/04.m3u8
+#EXTINF:0,Hay ATV 
+http://ott-cdn.ucom.am/s73/04.m3u8
+#EXTINF:0,Jan TV 
+http://ott-cdn.ucom.am/s42/04.m3u8
+#EXTINF:0,Armenia Comedy 
+http://ott-cdn.ucom.am/s32/04.m3u8
+#EXTINF:0,Filmzone ATV 
+http://ott-cdn.ucom.am/s48/04.m3u8
+#EXTINF:0,Cineman 
+http://ott-cdn.ucom.am/s66/04.m3u8
+#EXTINF:0,Bazmoc ATV 
+http://ott-cdn.ucom.am/s74/04.m3u8
+#EXTINF:0,H3 vk.com/iptv_iptv
+http://ott-cdn.ucom.am/s12/04.m3u8
+#EXTINF:0,Tava ATV 
+http://ott-cdn.ucom.am/s53/04.m3u8
+#EXTINF:0,Shoxakat 
+http://ott-cdn.ucom.am/s13/04.m3u8
+#EXTINF:0,SONG TV HD (Armenia)
+http://mtvam.ru/hlsam/high/playlist.m3u8
+#EXTINF:0,SONG TV HD (Georgia)
+https://songtvge.ru/lhigh/playlist.m3u8
+#EXTINF:0,SONG TV HD (Russia)
+https://songtvru.ru/lhigh/playlist.m3u8
+#EXTINF:0,Первый канал
+http://ott-cdn.ucom.am/s14/index.m3u8
+#EXTINF:0,Планета РТР
+http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:0,Россия К
+http://ott-cdn.ucom.am/s16/index.m3u8
+#EXTINF:0,НТВ
+http://ott-cdn.ucom.am/s17/index.m3u8
+#EXTINF:0,Food Network 
+http://ott-cdn.ucom.am/s18/index.m3u8
+#EXTINF:0,ТНТ
+http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:0,ЦТВ 
+http://ott-cdn.ucom.am/s20/index.m3u8
+#EXTINF:0,Россия 24 
+http://ott-cdn.ucom.am/s21/index.m3u8
+#EXTINF:0,Al Jazeera English 
+http://ott-cdn.ucom.am/s23/index.m3u8
+#EXTINF:0,BBC 
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:0,France 24 
+http://ott-cdn.ucom.am/s25/index.m3u8
+#EXTINF:0,Deutsche Welle 
+http://ott-cdn.ucom.am/s26/index.m3u8
+#EXTINF:0,CNN vk.com/iptv_iptv
+http://ott-cdn.ucom.am/s27/index.m3u8
+#EXTINF:0,Kukhnya TV 
+http://ott-cdn.ucom.am/s28/index.m3u8
+#EXTINF:0,Индийское кино
+http://ott-cdn.ucom.am/s29/index.m3u8
+#EXTINF:0,Fashion TV 
+http://ott-cdn.ucom.am/s30/index.m3u8
+#EXTINF:0,Загородный 
+http://ott-cdn.ucom.am/s31/index.m3u8
+#EXTINF:0,A2 
+http://ott-cdn.ucom.am/s33/index.m3u8
+#EXTINF:0,Bridge TV 
+http://ott-cdn.ucom.am/s34/index.m3u8
+#EXTINF:0,Mezzo 
+http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:0,РБК 
+http://ott-cdn.ucom.am/s36/index.m3u8
+#EXTINF:0,English Club 
+http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:0,Сарафан
+http://ott-cdn.ucom.am/s38/index.m3u8
+#EXTINF:0,Мир
+http://ott-cdn.ucom.am/s39/index.m3u8
+#EXTINF:0,История 
+http://ott-cdn.ucom.am/s40/index.m3u8
+#EXTINF:0,Телеканал Футбол
+http://ott-cdn.ucom.am/s41/index.m3u8
+#EXTINF:0,Шансон ТВ 
+http://ott-cdn.ucom.am/s43/index.m3u8
+#EXTINF:0,Eurika 
+http://ott-cdn.ucom.am/s44/index.m3u8
+#EXTINF:0,Musicbox RU 
+http://ott-cdn.ucom.am/s45/index.m3u8
+#EXTINF:0,Russian Extreme 
+http://ott-cdn.ucom.am/s47/index.m3u8
+#EXTINF:0,MCM TOP 
+http://ott-cdn.ucom.am/s49/index.m3u8
+#EXTINF:0,Rustavi 2 
+http://ott-cdn.ucom.am/s50/index.m3u8
+#EXTINF:0,Авто плюс 
+http://ott-cdn.ucom.am/s51/index.m3u8
+#EXTINF:0,Русский Бестселлер
+http://ott-cdn.ucom.am/s52/index.m3u8
+#EXTINF:0,TВЦ vk.com/iptv_iptv
+http://ott-cdn.ucom.am/s54/index.m3u8
+#EXTINF:0,Охотник и Рыболов 
+http://ott-cdn.ucom.am/s55/index.m3u8
+#EXTINF:0,Телекафе 
+http://ott-cdn.ucom.am/s56/index.m3u8
+#EXTINF:0,Рыжий 
+http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF:0,Мульт 
+http://ott-cdn.ucom.am/s58/index.m3u8
+#EXTINF:0,Tiji 
+http://ott-cdn.ucom.am/s59/index.m3u8
+#EXTINF:0,Disney канал
+http://ott-cdn.ucom.am/s60/index.m3u8
+#EXTINF:0,Карусель 
+http://ott-cdn.ucom.am/s61/index.m3u8
+#EXTINF:0,Spike 
+http://ott-cdn.ucom.am/s62/index.m3u8
+#EXTINF:0,Cartoon Network 
+http://ott-cdn.ucom.am/s63/index.m3u8
+#EXTINF:0,Boomerang 
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:0,Bloomberg 
+http://ott-cdn.ucom.am/s65/index.m3u8
+#EXTINF:0,Viasat Nature 
+http://ott-cdn.ucom.am/s67/index.m3u8
+#EXTINF:0,Техно 24 
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:0,Viasat History 
+http://ott-cdn.ucom.am/s70/index.m3u8
+#EXTINF:0,Телепутешествия 
+http://ott-cdn.ucom.am/s71/index.m3u8
+#EXTINF:0,Viasat Explorer 
+http://ott-cdn.ucom.am/s72/index.m3u8
+#EXTINF:0,TV5 Monde 
+http://ott-cdn.ucom.am/s75/index.m3u8
+#EXTINF:0,24 Док
+http://ott-cdn.ucom.am/s76/index.m3u8
+#EXTINF:0,Мама vk.com/iptv_iptv
+http://ott-cdn.ucom.am/s77/index.m3u8
+#EXTINF:0,Bridge TV Русский хит
+http://ott-cdn.ucom.am/s78/index.m3u8
+#EXTINF:0,Maestro TV 
+http://ott-cdn.ucom.am/s79/index.m3u8
+#EXTINF:0,RTG
+http://ott-cdn.ucom.am/s80/index.m3u8
+#EXTINF:0,Setanta Sport 
+http://ott-cdn.ucom.am/s81/index.m3u8
+#EXTINF:0,Setanta Sport Plus 
+http://ott-cdn.ucom.am/s82/index.m3u8
+#EXTINF:0,1TV 
+http://ott-cdn.ucom.am/s84/index.m3u8
+#EXTINF:0,HCT 
+http://ott-cdn.ucom.am/s87/index.m3u8
+#EXTINF:0,Кинохит 
+http://ott-cdn.ucom.am/s88/index.m3u8
+#EXTINF:0,Кинопремьера 
+http://ott-cdn.ucom.am/s89/index.m3u8
+#EXTINF:0,TV1000 
+http://ott-cdn.ucom.am/s90/index.m3u8
+#EXTINF:0,TV1000 Action 
+http://ott-cdn.ucom.am/s91/index.m3u8
+#EXTINF:0,Zoo TV
+http://ott-cdn.ucom.am/s92/index.m3u8
+#EXTINF:0,Russia Today Doc 
+http://ott-cdn.ucom.am/s93/index.m3u8
+#EXTINF:0,TV1000 Русское кино
+http://ott-cdn.ucom.am/s95/index.m3u8
+#EXTINF:0,Russia Today 
+http://ott-cdn.ucom.am/s96/index.m3u8
+#EXTINF:0,VIP Comedy 
+http://ott-cdn.ucom.am/s97/index.m3u8
+#EXTINF:0,Наука vk.com/iptv_iptv
+http://ott-cdn.ucom.am/s98/index.m3u8
+#EXTINF:0,new
+http://ott-cdn.ucom.am/s99/index.m3u8
+#EXTINF:0,ТНТ4
+http://ott-cdn.ucom.am/s100/index.m3u8
+#EXTINF:0,all
+http://ott-cdn.ucom.am/s101/04.m3u8
